@@ -150,7 +150,7 @@ input, select, textarea {
 	body, input, select, textarea {
 		font-family: "Merriweather", Georgia, serif;
 		font-weight: 300;
-		font-size: 1rem;
+		font-size: 0.8rem;
 		line-height: 2.375;
 	}
 
@@ -2620,8 +2620,8 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
-			margin: 2.5rem 0;
-			width: 100%;
+			margin: 2.5rem 12rem;
+			width: 75%;
 		}
 
 			.image.fit:first-child {
@@ -2629,13 +2629,13 @@ input, select, textarea {
 			}
 
 			.image.fit img {
-				width: 100%;
+				width: 75%;
 			}
 
 		.image.main {
 			display: block;
-			margin: 4rem 0;
-			width: 100%;
+			margin: 3rem 14rem;
+			width: 50%;
 		}
 
 			.image.main:first-child {
